@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-hi nice to meet you~
+
 </body>
 </html>
